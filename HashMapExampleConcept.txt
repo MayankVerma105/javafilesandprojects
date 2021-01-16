@@ -1,0 +1,4 @@
+HashMap<String,Integer> map = new HashMap<>();
+map.put("Aman",19);
+map.put("Sunny",20);
+map.put("Ritesh",21);
